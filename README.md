@@ -7,7 +7,7 @@ A repo for links about user experience and interaction design.
 
 ## UX Research
 [5 Ways To Use Google Analytics for Your UX Research](http://www.sitepoint.com/5-ways-use-google-analytics-ux-research/)  
-
+[How to Run an Empathy User Journey Mapping Workshop](https://medium.com/@harrybr/how-to-run-an-empathy-user-journey-mapping-workshop-813f3737067#.t2waxbex5)
 
 
 
